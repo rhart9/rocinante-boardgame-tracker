@@ -21,7 +21,7 @@
 | 7/29/2026	 | Dave	|            | GWT
 | 8/5/2026	 |      |            | | Tom bails (London) -> skip
 | 8/12/2026	 | Matt | 8/13/2026  | Gizmos
-| 8/19/2026	 | Russ
+| 8/19/2026	 | Russ | 8/18/2026  | Welcome To
 | 8/26/2026	 | Tom
 | 9/2/2026   | Dave
 | 9/9/2026   | Matt
