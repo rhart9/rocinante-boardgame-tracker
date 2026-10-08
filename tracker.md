@@ -27,7 +27,9 @@
 | 9/9/2026   |      |            | | Skip
 | 9/16/2026  | Matt |            | Apiary
 | 9/23/2026  | Russ |            | Daybreak
-| 9/30/2026  | Tom
-| 10/7/2026  | Dave
+| 9/30/2026  | Tom  |            | Hegemony
+| 10/7/2026  | Dave |            | Agricola
 | 10/14/2026 | Matt
 | 10/21/2026 | Russ
+| 10/28/2026 | Tom
+| 11/4/2026  | Dave
