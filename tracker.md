@@ -32,7 +32,8 @@
 | 10/14/2026 |      |            | | Skip
 | 10/21/2026 |      |            | | Skip
 | 10/28/2026 |      |            | | Skip
-| 11/4/2026  | Matt
+| 11/4/2026  | Matt |            | Spirit Island, Forest Shuffle
 | 11/11/2026 | Russ
 | 11/18/2026 | Tom
 | 11/25/2026 | Dave
+| 12/2/2026  | Matt
